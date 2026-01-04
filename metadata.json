@@ -1,0 +1,7 @@
+{
+  "name": "Family Quest: Kids Task Adventure",
+  "description": "A gamified parent-child task management tool. Parents issue real-time tasks, children complete them for points, and parents verify with photo memories.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
